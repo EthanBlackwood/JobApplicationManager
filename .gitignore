@@ -1,0 +1,8 @@
+# Local data storage
+applications.json
+
+# Compiled binaries
+bin/
+
+# IDE config folders
+.vscode/
